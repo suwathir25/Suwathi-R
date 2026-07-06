@@ -95,14 +95,6 @@
 
 </p>
 
----
-
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&margin-w=10)
-
----
-
 # 🌐 Connect With Me
 
 <p>
